@@ -11,5 +11,5 @@ python2 backend.py // required dependencies/pip-packages needs to be installed.
 ### Team Members:
 * Diwakar Moturu
 * Raghav Ranjan
-* Rohan Chaudary
+* Rohan Chaudhary
 * Piyush Arora
